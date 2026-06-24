@@ -1,4 +1,4 @@
-notepad website
+// notepad website
 import { useState, useEffect } from "react";
 
 const questions = [
